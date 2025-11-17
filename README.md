@@ -3,5 +3,5 @@
 =Trabalho da Materia Prog. Sitema Especialista do professor Vinicius=
 =Noturno=
 =Alunos 
-João victor Galvão Alves 
-Adrino Machado
+/João victor Galvão Alves /
+Adrino Machado /
